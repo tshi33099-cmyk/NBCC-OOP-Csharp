@@ -1,0 +1,11 @@
+C:\projects\NBCC-OOP-Csharp\Shi_lab1_Petapp\Shi_lab1_Petapp\bin\Debug\Shi_lab1_Petapp.exe.config
+C:\projects\NBCC-OOP-Csharp\Shi_lab1_Petapp\Shi_lab1_Petapp\bin\Debug\Shi_lab1_Petapp.exe
+C:\projects\NBCC-OOP-Csharp\Shi_lab1_Petapp\Shi_lab1_Petapp\bin\Debug\Shi_lab1_Petapp.pdb
+C:\projects\NBCC-OOP-Csharp\Shi_lab1_Petapp\Shi_lab1_Petapp\obj\Debug\Shi_lab1_Petapp.csproj.AssemblyReference.cache
+C:\projects\NBCC-OOP-Csharp\Shi_lab1_Petapp\Shi_lab1_Petapp\obj\Debug\Shi_lab1_Petapp.Form1.resources
+C:\projects\NBCC-OOP-Csharp\Shi_lab1_Petapp\Shi_lab1_Petapp\obj\Debug\Shi_lab1_Petapp.Properties.Resources.resources
+C:\projects\NBCC-OOP-Csharp\Shi_lab1_Petapp\Shi_lab1_Petapp\obj\Debug\Shi_lab1_Petapp.csproj.GenerateResource.cache
+C:\projects\NBCC-OOP-Csharp\Shi_lab1_Petapp\Shi_lab1_Petapp\obj\Debug\Shi_lab1_Petapp.csproj.CoreCompileInputs.cache
+C:\projects\NBCC-OOP-Csharp\Shi_lab1_Petapp\Shi_lab1_Petapp\obj\Debug\Shi_lab1_Petapp.exe
+C:\projects\NBCC-OOP-Csharp\Shi_lab1_Petapp\Shi_lab1_Petapp\obj\Debug\Shi_lab1_Petapp.pdb
+C:\projects\NBCC-OOP-Csharp\Shi_lab1_Petapp\Shi_lab1_Petapp\obj\Debug\Shi_lab1_Petapp.exe.config
