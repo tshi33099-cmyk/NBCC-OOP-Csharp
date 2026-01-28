@@ -9,6 +9,10 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Xml.Linq;
 using static System.Net.Mime.MediaTypeNames;
+// Date: 2026-01-15
+// Name: TiantianShi
+// Description: This lab creating a pet class and using a form to manage
+// Pet data and demostrates oop conceopts 
 
 namespace Shi_lab1_Petapp
 {
@@ -83,3 +87,4 @@ namespace Shi_lab1_Petapp
         }
     }
 }
+//2026-01-17

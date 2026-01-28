@@ -1,0 +1,10 @@
+201,Bananas,1.99,2024-02-10,Ripe yellow bananas
+202,Whole Grain Bread,2.49,2024-02-08,Multi-grain bread
+203,Almond Milk,3.99,2024-02-12,Unsweetened almond milk
+204,Free-Range Eggs,2.29,2024-02-15,Organic free-range eggs
+205,Salmon Fillet,8.99,2024-02-14,Wild-caught salmon fillet
+206,Kale,2.79,2024-02-09,Organic kale leaves
+207,Greek Yogurt,2.49,2024-02-11,Strawberry-flavored Greek yogurt
+208,Quinoa,4.89,2024-02-18,Organic tri-color quinoa
+209,Bell Peppers,3.29,2024-02-07,Assorted bell peppers
+210,Swiss Cheese,5.49,2024-02-16,Imported Swiss cheese

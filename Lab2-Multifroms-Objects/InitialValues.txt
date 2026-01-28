@@ -1,0 +1,10 @@
+101,Apples,2.49,2024-02-01,Fresh red apples
+102,Bread,1.99,2024-01-30,Whole wheat bread
+103,Milk,3.49,2024-01-28,Organic whole milk
+104,Eggs,1.79,2024-02-05,Free-range brown eggs
+105,Chicken Breast,5.99,2024-02-03,Boneless skinless chicken breast
+106,Spinach,2.29,2024-01-29,Fresh organic spinach
+107,Yogurt,1.89,2024-02-02,Low-fat vanilla yogurt
+108,Pasta,1.29,2024-02-10,Whole grain spaghetti
+109,Tomatoes,3.99,2024-01-31,Vine-ripened tomatoes
+110,Cheese,4.59,2024-02-08,Sharp cheddar cheese
